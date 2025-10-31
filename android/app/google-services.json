@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "184248206055",
+    "firebase_url": "https://sahilproject-ac4f2-default-rtdb.firebaseio.com",
+    "project_id": "sahilproject-ac4f2",
+    "storage_bucket": "sahilproject-ac4f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184248206055:android:55702b16db11c2f35dd842",
+        "android_client_info": {
+          "package_name": "com.example.six_weeks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85LJvXg2u9sKwABUm2pC2BqA5ZQRpm-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184248206055:android:c583f82fe3919fc65dd842",
+        "android_client_info": {
+          "package_name": "com.o7solutions.taskmanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85LJvXg2u9sKwABUm2pC2BqA5ZQRpm-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
